@@ -1,4 +1,4 @@
-# MQTT Subscription Application Examples for IoT Projects
+# Disttributed MQTT Broker Publisher and Subscriber
 
 This implementation contains JS page to connect to MQTT broker running on local docker or remote machine. 
 You will need to pass details such as host address, port number to eastablish connection. 
